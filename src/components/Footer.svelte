@@ -1,0 +1,1 @@
+<p class="block text-center pt-40 pb-4 text-gray-400 text-sm" style="font-family: 'Courier New', monospace;">Designed and developed by me using Svelte and Tailwindcss</p>
