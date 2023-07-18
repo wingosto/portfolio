@@ -139,7 +139,7 @@ export default {
     ],
     contactsTitle: "Get in Touch",
     resume: "Resume",
-    resumeLink: "cv_en.pdf",
+    resumeLink: "CV_PedroRibeiro_en.pdf",
   },
   pt: {
     jobTitle: "Engenheiro de Software",
@@ -281,6 +281,6 @@ export default {
     ],
     contactsTitle: "Entre em contacto",
     resume: "Curriculo",
-    resumeLink: "cv_pt.pdf",
+    resumeLink: "CV_PedroRibeiro_pt.pdf",
   },
 };
